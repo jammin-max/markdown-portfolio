@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# I am starting to learn this I think
+Jamin Hershberger
